@@ -6,6 +6,17 @@
     <title>Document</title>
 </head>
 <body>
-    esta es una prueba 
+    <nav class="menu">
+    
+        <ul>
+            <li><a href="">Inicio</a></li>
+            <li><a href="">Animacion de Graficos</a></li>
+            <li><a href="">Diseño Grafico</a></li>
+            <li><a href="">Diseño web</a></li>
+            <li><a href="">Herramientas Multimedia</a></li>
+            <li><a href="">Produccion Audiovisual</a></li>
+        </ul>
+    </nav>
+    
 </body>
 </html>
