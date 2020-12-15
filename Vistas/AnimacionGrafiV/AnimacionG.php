@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>ANIMACION DE GRAFICOS</h1>
+    <p></p>
 </body>
 </html>
