@@ -3,26 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
     <link rel="stylesheet" href="bootstrap.css">
     <title>Grupo1</title>
+=======
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <title>Document</title>
+>>>>>>> cbddf3133f97521b240643488e70aa56b2fabf00
 </head>
 <body>
-    <nav class="nav justify-content-center">
-      <a class="nav-link active" href="#">Active link</a>
-      <a class="nav-link" href="#">Link</a>
-      <a class="nav-link disabled" href="#">Disabled link</a>
-    </nav>
-    <nav class="menu">
     
-        <ul>
-            <li><a href="">Inicio</a></li>
-            <li><a href="">Animacion de Graficos</a></li>
-            <li><a href="">Diseño Grafico</a></li>
-            <li><a href="">Diseño web</a></li>
-            <li><a href="">Herramientas Multimedia</a></li>
-            <li><a href="">Produccion Audiovisual</a></li>
-        </ul>
-    </nav>
-    
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a href="#" class="nav-link active">Inicio</a>
+        </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Cursos</a>
+            <div class="dropdown-menu">
+                          
+                <a class="dropdown-item" href="">Animacion de Graficos</a>
+                <a class="dropdown-item" href="">Diseño Grafico</a>
+                <a class="dropdown-item" href="">Diseño web</a>
+                <a class="dropdown-item" href="">Herramientas Multimedia</a>
+                <a class="dropdown-item" href="">Produccion Audiovisual</a>
+                <a class="dropdown-item" href="">Legislacion e Insercion Laboral</a>
+            </div>
+        </li>
+       
+    </ul>
+   
 </body>
 </html>
