@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Liderazgo Empresarial</title>
+    <title>LiderazgoyTrabajoenEquipo</title>
 </head>
 <body>
-    <h1>Curso de Liderazgo Empresarial</h1>
+    <h1>Curso de Liderazgo y Trabajo en Equipo</h1>
     <ol>
         <li>El liderazgo empresarial consiste en la habilidad o proceso por medio del cual el 
             líder de la empresa es capaz de influir en los demás para poder conseguir los objetivos 
