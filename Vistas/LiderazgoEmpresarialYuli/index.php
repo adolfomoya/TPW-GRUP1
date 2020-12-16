@@ -9,8 +9,11 @@
 <body>
     <h1>Curso de Liderazgo Empresarial</h1>
     <ol>
-        <li>Liderar equipos exitosos es cuestión de actitud. Lleva tu empresa a otro nivel con las herramientas que te ofrece el Curso de Liderazgo Empresarial. Consigue usuarios felices, mantén a tu equipo interesado y conviértete en un líder increíble</li>
-        <li>lala</li>
+        <li>El liderazgo empresarial consiste en la habilidad o proceso por medio del cual el 
+            líder de la empresa es capaz de influir en los demás para poder conseguir los objetivos 
+            y satisfacer las necesidades de la empresa. Busca desarrollar el máximo potencial en 
+            empresa y trabajadores. Por eso, las empresas ya no solo necesitan jefes sino también líderes.</li>
+        <li>Características del liderazgo empresarial</li>
     </ol>
 </body>
 </html>
