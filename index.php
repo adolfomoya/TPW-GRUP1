@@ -1,17 +1,11 @@
+<!-- HECHO POR Adolfo Moya -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
-    <link rel="stylesheet" href="bootstrap.css">
-    <title>Grupo1</title>
-=======
     <link rel="stylesheet" href="css/bootstrap.css">
-    <!-- JavaScript Bundle with Popper -->
-
-    <title>Document</title>
->>>>>>> cbddf3133f97521b240643488e70aa56b2fabf00
+    <title>Grupo1</title>
 </head>
 <body>
     
@@ -35,8 +29,9 @@
             <a href="Vistas\ProduccionAudRo\index.php" class="nav-link ">Produccion Audiovisual</a>
         </li>
         <li class="nav-item">
-            <a href="Vistas\LiderazgoEmpresarialYuli\index.php" class="nav-link ">Legislacion e Insercion Laboral</a>
+            <a href="Vistas\LiderazgoyTrabajoenEquipo\index.php" class="nav-link ">Liderazgo y Trabajo en equipo</a>
         </li>
+        
       
        
     </ul>
