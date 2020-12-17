@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(6, 34, 43);
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+h1{
+    padding: 10px 10px;
+    background-color: rgb(7, 81, 116);
+    text-align: center;
+    color:rgb(168, 250, 175);
+}
+ol{
+    margin: 50px 50px;
+    color: yellow;
+    font-size: 20px;
+}
+p{
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 15px;
+    text-align: justify;
+}
+ul{
+    color: aqua;
+    margin:15px;
+    padding: 20px;
+}
+.container{
+    text-align: center;
+    overflow: hidden;
+    margin: 15px;
+    background-color: rgb(2, 41, 41);
+    border-radius: 15px;
+    box-shadow: 0 0 12px rgb(168, 250, 175);
+}
+.tarjet{
+    position: relative;
+    left: 200px;
+    align-items: center;
+    margin: 20px 20px;
+    float: left;
+    padding-left: 100px;
+    position: relative;
+    left: 200px;
+}
+span{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    background-attachment: fixed;
+    background-color:rgba(60, 218, 12, 0.2);
+    height: 40px;
+    text-align: center;
+    padding: 20px 20px;
+}
+.fot{
+    font-size: 30px;
+    color: rgb(67, 235, 25);
+}
+.atras{
+    width: 45px;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+.atras:hover{
+    box-shadow: 0 0 20px rgb(21, 252, 32);
+}
