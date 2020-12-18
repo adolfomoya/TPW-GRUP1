@@ -1,0 +1,37 @@
+h1{
+    padding: 0;
+    margin: 0;
+    padding: 10px 10px;            
+    text-align: center;
+    color:rgb(254, 255, 254);
+    background-color:  rgb(128, 00, 40);
+}
+.return{
+    width: 45px;
+    top: 2px;
+    left: 8px;
+    position: absolute;
+    background-color:#00568f;
+    border-radius:0.5em;
+    color:white;
+    text-transform:uppercase;
+    padding:1em 1em;
+}
+ol{
+    margin: 60px 60px;
+    color: rgb(25, 0, 255);
+    font-size: 25px;
+}
+.container{
+    color: black;
+    margin: 10px;
+    background-color: rgb(217, 238, 101);
+    border-radius: 5px;
+    box-shadow: 2 2 12px rgb(168, 250, 175);
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(128, 00, 40);
+    color: white;
+}
