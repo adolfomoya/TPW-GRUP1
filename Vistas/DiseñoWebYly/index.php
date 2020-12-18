@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../../css/bootstrap.css">
+    <link rel="stylesheet" href="../../css/StyleWhatsapp.css">
     <title>DiseñoGráfico</title>
     <style>
         h1{
@@ -54,5 +55,9 @@
         </div>
         <a href="../../index.php"><button>Regresar</button></a>
     </ol>
+    <a id="app-whatsapp" target="_blanck" href="https://api.whatsapp.com/send?phone=928073585&amp;text=Hola!&nbsp;en&nbsp;que&nbsp;te&nbsp;puedo&nbsp;ayudar?">
+     
+     <img src="../../img/WhatsApp-logo.png" alt="Whatsapp">
+</a>
 </body>
 </html>
