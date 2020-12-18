@@ -46,7 +46,7 @@
 <a href="../../index.php"><button><img src="../../img/return.jpg" class="return"></button></a>
     <address>
         Irving Ccolqque<br>
-        darkrad82gonew@gmail.com
+        iccolqque.171ci07@istta.edu.pe
     </address>
 </footer>
 </html>
