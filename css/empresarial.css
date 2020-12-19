@@ -1,9 +1,10 @@
 *{
- 
+    box-sizing: border-box;    
+
     margin: 0;
     padding: 1.5em;
    
-    box-sizing: border-box;
+   
     
 }
 body{
@@ -20,6 +21,9 @@ header{
     position: relative;
   
 }
+.texto{
+    font-size: 15em;
+}
 
 .titulo h1::after, .titulo h1::before{
     
@@ -35,4 +39,7 @@ header{
 }
 .titulo h1::after{
     right: -140px;
+}
+.div{
+    background:rgb(114, 230, 47);
 }
