@@ -1,0 +1,63 @@
+*{
+    /*borra los margenes del modo predefinido*/
+    margin: 0;
+    padding: 0;
+   
+    box-sizing: border-box;
+    
+}
+body {
+    background: #313d52;
+}
+.navegacion{
+    width: 1000px;
+    margin: 30px auto;
+    background: #fff;
+
+}
+
+
+.navegacion ul{
+    list-style: none; /*borrar la numeracio*/
+}
+.menu >li{
+    position: relative;
+    display: inline-block;
+}
+
+.menu>li>a{
+    display: block;
+    padding: 15px 20px;
+    color: #353535;
+    font-family: 'Open sans';
+    text-decoration: none;/*para quitar la decoracion del text*/
+}
+
+.menu li a:hover{/*para cuando el puntero este sobre el boton este cambie de color*/
+    color:#CE7D35;
+    transition: all .3s;
+}
+/*editar submenu*/
+.submenu{
+    position: absolute;/*pra que no se valla a  otra parte de la panatalla*/
+    background: #333333;
+    width:120%;
+    visibility: hidden;
+    opacity: 1;
+    transition: opacity 0.5s;
+  
+}
+.submenu li a{
+    display: block;/*tipo de cuadro a visualizar*/
+    padding: 15px;
+    color: #fff;
+    font-family:'Open sans' ;
+    text-decoration: none;
+}
+
+.menu li:hover .submenu{
+    visibility: visible;
+    opacity: 1;
+
+
+}
