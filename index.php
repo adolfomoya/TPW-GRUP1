@@ -31,6 +31,9 @@
         <li class="nav-item">
             <a href="Vistas\LiderazgoyTrabajoenEquipo\index.php" class="nav-link ">Liderazgo y Trabajo en equipo</a>
         </li>
+        <li class="nav-item">
+            <a href="Vistas\ProyectoEmpresarial\index.php" class="nav-link ">Proyecto Empresarial</a>
+        </li>
         
       
        
