@@ -10,39 +10,116 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="stylesheet" href="../../css/empresarial.css">
   </head>
+
+
   <body>
         <header class="titulo">
             <h1 >PROYECTO EMPRESARIAL</h1>
         </header>
         <div class="container">
             <div class="row">
-                <div class="col-xs-1-12 ">
-                    <div class="card " style="width: 18rem;">
+                <div class="col-md-8 ">
+                    <div class="card " style="width: 20rem;">
                         <img src="../../img/doncente.png" class="card-img-top" alt="...">
                         <div class="card-body div" style="border:red 3px dotted;">
-                            <p class="card-text">
-                            Docente:<strong>Edward Walter Pinares Bonnett</strong></p>
+                            <p class="card-text">Docente Encargado: Edward Walter Pinares Bonnett</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-1-12">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <div class="col-md-2">
+                    <div class="card" style="width: 20rem;">
+                        <img src="../../img/inicio.jpg" class="card-img-top" alt="...">
+                        <div class="card-body div2"style="border:red 3px dotted;">
+                            <p class="card-text text-center">Para el presente ciclo tiene 
+                                que cumplir con la lectura de los materiales, tareas, evaluaciones y participación en los foros.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-1-12">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        </div>
-                    </div>
-                </div>
-                
+
             </div>
+            <header class="titulo">
+             <h1 >Trabajo de Clases</h1>
+            </header>
+            <div class="row">
+                <div class="card mb-3 card border-success mb-3 card text-white bg-success mb-3" style="max-width: 18erm;">
+                    <div class="row no-gutters">
+                        <div class="col-lg-4">
+                        <img src="../../img/estrategia.jpg" class="card-img" alt="...">
+                        </div>
+                        <div class="col-md-6">
+                        <div class="card-body">
+                            <h5 class="card-title">Descripcion de la Capacidad Terminal 1</h5>
+                            <p class="card-text">Ejecutar un proyecto o plan, de creación de una empresa: En esta capacidad terminal elaboraran un proyecto de creación de empresa ligada a la carrera profesional .</p>
+                            
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mb-3 card border-success mb-3 card text-white bg-primary mb-3" style="max-width: 18erm;">
+                    <div class="row no-gutters">
+                        <div class="col-lg-4">
+                        <img src="../../img/inicio.jpg" class="card-img" alt="...">
+                        </div>
+                        <div class="col-md-6">
+                        <div class="card-body">
+                            <h5 class="card-title">Capacidad Terminal 1: El  Emprendimiento y el emprendedor.</h5>
+                            <p class="card-text">Qué es Emprendimiento: Emprendedor es un adjetivo que hace referencia a la persona que emprende acciones dificultosas</p>
+                            
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mb-3 card border-success mb-3 card text-white bg-danger mb-3" style="max-width: 18erm;">
+                    <div class="row no-gutters">
+                        <div class="col-lg-4">
+                        <img src="../../img/inicio.jpg" class="card-img" alt="...">
+                        </div>
+                        <div class="col-md-6">
+                        <div class="card-body">
+                            <h5 class="card-title">Capacidad Terminal 1: La creatividad y la innovación</h5>
+                            <p class="card-text">Para la emprendedora la creatividad debe ser un proceso básico al iniciar su plan de negocio ya que les ayudará a diferenciarla de la competencia</p>
+                            
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mb-3 card border-success mb-3 card text-white bg-info mb-3" style="max-width: 18erm;">
+                    <div class="row no-gutters">
+                        <div class="col-lg-4">
+                        <img src="../../img/inicio.jpg" class="card-img" alt="...">
+                        </div>
+                        <div class="col-md-6">
+                        <div class="card-body">
+                            <h5 class="card-title">Capacidad Terminal 1: La idea de Negocio - Propuesta de valor</h5>
+                            <p class="card-text">una propuesta de valor es una estrategia empresarial que maximiza la demanda a través de configurar óptimamente la oferta</p>
+                            
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mb-3 card border-success mb-3 card text-white bg-success mb-3" style="max-width: 18erm;">
+                    <div class="row no-gutters">
+                        <div class="col-lg-4">
+                        <img src="../../img/inicio.jpg" class="card-img" alt="...">
+                        </div>
+                        <div class="col-md-6">
+                        <div class="card-body">
+                            <h5 class="card-title">Capacidad Terminal 1: Idea de Negocio</h5>
+                            <p class="card-text">Es, básicamente, el servicio o producto que se quiere ofrecer, la forma en que se conseguirán los clientes y cómo se espera recibir ganancias de esta.</p>
+                            
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <center>
+
+                <footer>
+                    <span class="fot">© Rolly Sihan Ccasa Quispe</span>
+                </footer>
+            </center>
+            
         </div>
        
 
