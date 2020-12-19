@@ -117,7 +117,7 @@
             <center>
 
                 <footer>
-                    <span class="fot">© Rolly Sihan Ccasa Quispe</span>
+                    <span class="fot">© Rolly Sihan Ccasa Quispe
                 </footer>
             </center>
             
