@@ -58,7 +58,7 @@
                 <div class="card mb-3 card border-success mb-3 card text-white bg-primary mb-3" style="max-width: 18erm;">
                     <div class="row no-gutters">
                         <div class="col-lg-4">
-                        <img src="../../img/inicio.jpg" class="card-img" alt="...">
+                        <img src="../../img/emprendimiento.jpg" class="card-img" alt="...">
                         </div>
                         <div class="col-md-6">
                         <div class="card-body">
@@ -72,7 +72,7 @@
                 <div class="card mb-3 card border-success mb-3 card text-white bg-danger mb-3" style="max-width: 18erm;">
                     <div class="row no-gutters">
                         <div class="col-lg-4">
-                        <img src="../../img/inicio.jpg" class="card-img" alt="...">
+                        <img src="../../img/innovacion.jpg" class="card-img" alt="...">
                         </div>
                         <div class="col-md-6">
                         <div class="card-body">
@@ -83,24 +83,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 card border-success mb-3 card text-white bg-info mb-3" style="max-width: 18erm;">
-                    <div class="row no-gutters">
-                        <div class="col-lg-4">
-                        <img src="../../img/inicio.jpg" class="card-img" alt="...">
-                        </div>
-                        <div class="col-md-6">
-                        <div class="card-body">
-                            <h5 class="card-title">Capacidad Terminal 1: La idea de Negocio - Propuesta de valor</h5>
-                            <p class="card-text">una propuesta de valor es una estrategia empresarial que maximiza la demanda a través de configurar óptimamente la oferta</p>
-                            
-                        </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="card mb-3 card border-success mb-3 card text-white bg-success mb-3" style="max-width: 18erm;">
                     <div class="row no-gutters">
                         <div class="col-lg-4">
-                        <img src="../../img/inicio.jpg" class="card-img" alt="...">
+                        <img src="../../img/negocio.jpg" class="card-img" alt="...">
                         </div>
                         <div class="col-md-6">
                         <div class="card-body">
@@ -112,6 +98,21 @@
                     </div>
                 </div>
 
+                <div class="card mb-3 card border-success mb-3 card text-white bg-info mb-3" style="max-width: 18erm;">
+                    <div class="row no-gutters">
+                        <div class="col-lg-4">
+                        <img src="../../img/idea.jpg" class="card-img" alt="...">
+                        </div>
+                        <div class="col-md-6">
+                        <div class="card-body">
+                            <h5 class="card-title">Capacidad Terminal 1: La idea de Negocio - Propuesta de valor</h5>
+                            <p class="card-text">una propuesta de valor es una estrategia empresarial que maximiza la demanda a través de configurar óptimamente la oferta</p>
+                            
+                        </div>
+                        </div>
+                    </div>
+                </div>
+               
             </div>
             <center>
 
