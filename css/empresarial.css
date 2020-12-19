@@ -1,20 +1,28 @@
 *{
-    /*borra los margenes del modo predefinido*/
+ 
     margin: 0;
-    padding: 0;
+    padding: 1.5em;
    
     box-sizing: border-box;
     
 }
 body{
-    background: #313d52;
+    background: #c9f0c1;
+    
+}
+header{
     text-align: center;
 }
+
 .titulo h1{
-    display: inline-block;/*para que solo abarque la line del texto*/
-    position: relative;/**/
+    padding: 0.1em;
+    display: inline-block;
+    position: relative;
+  
 }
+
 .titulo h1::after, .titulo h1::before{
+    
     content: "";
     position: absolute;
     width: 120px;
