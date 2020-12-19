@@ -4,19 +4,13 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Proyecto Empresarial</title>
-        <link rel="stylesheet" href="empresarial.css">
+        <link rel="stylesheet" href="../../css/empresarial.css">
     </head>
     <body>
-        <header> 
-            <nav class="navegacion">
-                <p>Proyecto Empresarial</p>
-            </nav>
 
-
-
-           
+        <header class="titulo">
+            <h1>SITIOS WEB PREFERIDOS</h1>
         </header>
-       
 
 
     </body>

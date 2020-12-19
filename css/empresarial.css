@@ -6,58 +6,25 @@
     box-sizing: border-box;
     
 }
-body {
+body{
     background: #313d52;
+    text-align: center;
 }
-.navegacion{
-    width: 1000px;
-    margin: 30px auto;
-    background: #fff;
-
+.titulo h1{
+    display: inline-block;/*para que solo abarque la line del texto*/
+    position: relative;/**/
 }
-
-
-.navegacion ul{
-    list-style: none; /*borrar la numeracio*/
+.titulo h1::after, .titulo h1::before{
+    content: "";
+    position: absolute;
+    width: 120px;
+    height: 3px;
+    background-color: black;
+    top: 0.6em;
 }
-.menu >li{
-    position: relative;
-    display: inline-block;
+.titulo h1::before{
+    left: -140px;
 }
-
-.menu>li>a{
-    display: block;
-    padding: 15px 20px;
-    color: #353535;
-    font-family: 'Open sans';
-    text-decoration: none;/*para quitar la decoracion del text*/
-}
-
-.menu li a:hover{/*para cuando el puntero este sobre el boton este cambie de color*/
-    color:#CE7D35;
-    transition: all .3s;
-}
-/*editar submenu*/
-.submenu{
-    position: absolute;/*pra que no se valla a  otra parte de la panatalla*/
-    background: #333333;
-    width:120%;
-    visibility: hidden;
-    opacity: 1;
-    transition: opacity 0.5s;
-  
-}
-.submenu li a{
-    display: block;/*tipo de cuadro a visualizar*/
-    padding: 15px;
-    color: #fff;
-    font-family:'Open sans' ;
-    text-decoration: none;
-}
-
-.menu li:hover .submenu{
-    visibility: visible;
-    opacity: 1;
-
-
+.titulo h1::after{
+    right: -140px;
 }
