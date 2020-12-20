@@ -34,6 +34,9 @@
         <li class="nav-item">
             <a href="Vistas\ProyectoEmpresarial\index.php" class="nav-link ">Proyecto Empresarial </a>
         </li>
+        <li class="nav-item">
+            <a href="Vistas\TProgramacionWebDnl\index.php" class="nav-link ">Taller de Programcion Web</a>
+        </li>
         
       
        
