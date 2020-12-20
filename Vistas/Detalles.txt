@@ -1,11 +1,11 @@
 https://github.com/ridolf-desing/Trabajo-grupal
 
-*Moya Adolfo => Crear repositorio GitHub.	
-*Borda Yulissa => Creación de Carpetas.
-*Callo Willian - (Diseño Gráfico)---
-Camala Victor - (Animación de Gráficos)
-*Ccolqque Irving - (Herramientas Multimedia)---
-*Lastra Rober - (Producción Audiovisual)--- (No se agregó ni al repositorio)
-*Quispe Yuly - (Diseño Web)
-*Borda Yulissa - (Liderazgo y Trabajo en Equipo)--
-*Ccasa Rolly - (Proyecto Empresarial)
+*Moya Adolfo => Crear repositorio GitHub. (20)
+*Callo Willian - (Diseño Gráfico) 17
+Camala Victor - (Animación de Gráficos) 20
+*Ccolqque Irving - (Herramientas Multimedia) 17 
+*Lastra Rober - (Producción Audiovisual) 10 Sin CSS
+*Quispe Yuly - (Diseño Web) 20
+*Borda Yulissa - (Liderazgo y Trabajo en Equipo)17
+*Ccasa Rolly - (Proyecto Empresarial) 17
+*Mamani Daniel - (Taller de Programación Web) 17
